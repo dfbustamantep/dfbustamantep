@@ -14,7 +14,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dfbustamantep)  
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep)](https://github.com/anuraghazra/github-readme-stats)-->
