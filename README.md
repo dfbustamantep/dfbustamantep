@@ -1,5 +1,5 @@
-## Hola 👋, Hola,mi nombre es Daniel Bustamante 👋
-#### Soy estudiante de Tecnologia en Sistematizacion de Datos en la UDFJC
+# Hola, mi nombre es Daniel Bustamante 👋
+### Estudiante de Tecnologia en Sistematizacion de Datos en la UDFJC
 
 
 
