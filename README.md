@@ -11,10 +11,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 <!--![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)-->	
-## Social:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-bustamante-pérez)
 
 ## Estadisticas:
-![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
+## Social:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-bustamante-pérez)
