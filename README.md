@@ -13,9 +13,14 @@
 <!--![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)-->	
 
 ## Estadisticas:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/dfbustamantep
+/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
+<br>
+
 
 <!--[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
 ## Social:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-bustamante-pérez)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-bustamante-p%C3%A9rez/)
