@@ -4,6 +4,9 @@
   <h4 align="left">Universidad Distrital Francisco José de Caldas</h4>
 </div>
 
+## Sobre mi
+💡 Soy un apasionado por la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web como **FastAPI**, **Flask**..  
+🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
 <!--## Intereses-->
 
 ## Habilidades:
@@ -20,7 +23,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
 <br>
-
+<!--
+<a href="https://github.com/dfbustamantep/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false"/>
+</a>
+-->
 
 <!--[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
