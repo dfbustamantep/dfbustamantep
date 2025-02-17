@@ -1,16 +1,14 @@
 <h1 align="center">Hola, soy Daniel Bustamante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+<!--<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>-->
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Sobre mi
 
 
 💻 Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
-💡 Soy un apasionado por la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web como **FastAPI**, **Flask** 
+💡 Soy un apasionado de la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web como **FastAPI** y **Flask**, mientras profundizo Python
 <!--y en lenguajes de programaciòn como **Python** **Rust**..  -->
-
 🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
-
 <br/> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Habilidades
@@ -37,7 +35,7 @@
 <a href="https://github.com/dfbustamantep/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false"/>
 </a>
--->
+
 
 <!--[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
