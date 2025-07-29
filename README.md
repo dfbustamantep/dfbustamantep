@@ -6,7 +6,8 @@
 
 
 💻 Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
-💡 Soy un apasionado de la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web como **FastAPI** y **Flask**, mientras profundizo Python.
+💡 Soy un apasionado de la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web  
+<!-- como **FastAPI** y **Flask**, mientras profundizo Python.-->
 <!--y en lenguajes de programaciòn como **Python** **Rust**..  -->
 🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
 <br/> 
