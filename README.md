@@ -5,11 +5,12 @@
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Sobre mi
 
 
-💻 Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
-💡 Soy un apasionado de la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web  
+🎓 Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
+💡 Apasionado por la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web  
+🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
 <!-- como **FastAPI** y **Flask**, mientras profundizo Python.-->
 <!--y en lenguajes de programaciòn como **Python** **Rust**..  -->
-🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
+
 <br/> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Habilidades
@@ -36,15 +37,14 @@
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
 <p align="center">
-  <a href="https://github.com/dfbustamantep/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false" />
+  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&layout=compact" />
 </p>
 <br>
 
-<!--
+
 <a href="https://github.com/dfbustamantep/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false"/>
+  
 </a>
 
 
@@ -52,4 +52,7 @@
 
 ## 🤝 Contacto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-bustamante-p%C3%A9rez/)
+
+
+
 
