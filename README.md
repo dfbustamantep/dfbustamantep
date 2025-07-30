@@ -51,8 +51,8 @@
 <!--[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
 ## 🤝 Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-bustamante-p%C3%A9rez/)
-
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-bustamante-p%C3%A9rez/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Bustamante-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-felipe-bustamante-perez/)
 
 
 
