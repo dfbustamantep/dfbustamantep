@@ -13,6 +13,7 @@
 <br/> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Habilidades
+<!--
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -25,13 +26,22 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,flask,html,css,js,mysql,postgres" />
+  </a>
+</p>
 
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
-<a href="https://github.com/dfbustamantep/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</a>
+<p align="center">
+  <a href="https://github.com/dfbustamantep/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
+</p>
 <br>
+
 <!--
 <a href="https://github.com/dfbustamantep/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false"/>
