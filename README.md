@@ -28,18 +28,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 -->
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,flask,html,css,js,mysql,postgres" />
   </a>
-</p>
+</div>
 
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
-<p align="center">
+<div align="center">
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false" />
   <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&layout=compact" />
-</p>
+</div>
 <br>
 
 
