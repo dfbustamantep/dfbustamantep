@@ -37,6 +37,7 @@
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
 <div align="center">
+  <!--<img src="https://streak-stats.demolab.com?user=dfbustamantep&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />-->
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=dfbustamantep&theme=dark&show_icons=true&hide_border=false" />
   <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbustamantep&theme=dark&hide_border=false&layout=compact" />
 </div>
