@@ -5,7 +5,7 @@
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Sobre mi
 
 
-🎓 Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
+🎓 Tecnologo en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
 💡 Apasionado por la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web  
 🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
 <!-- como **FastAPI** y **Flask**, mientras profundizo Python.-->
