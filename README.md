@@ -6,7 +6,7 @@
 
 
 🎓 Tecnologo en Sistematización de Datos - Universidad Distrital Francisco José de Caldas </br>
-💡 Apasionado por la tecnología y la programación. Actualmente, estoy desarrollando habilidades en tecnologías web  
+💡 Apasionado por la tecnología y la programación. Actualmente, estoy enfocado en análisis de datos
 🎯 Mi objetivo es contribuir a proyectos innovadores y seguir aprendiendo cada día.  
 <!-- como **FastAPI** y **Flask**, mientras profundizo Python.-->
 <!--y en lenguajes de programaciòn como **Python** **Rust**..  -->
